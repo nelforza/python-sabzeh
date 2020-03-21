@@ -14,7 +14,9 @@ Sabzeh is symbol of iranians norooz.
 2- Install open cv with pip :
 
 
-    run this command on terminal: pip --user install opencv-python
+run this command on terminal for install open cv:
+
+    pip --user install opencv-python
 
 ## v1.1:
 
