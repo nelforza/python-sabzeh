@@ -8,7 +8,13 @@ Kaleh Sabzehei detecting your face and then apply sabzeh effect on your head.
 
 Sabzeh is symbol of iranians norooz.
 
+## run:
+1- Install python 3.x
 
+2- Install open cv with pip :
+
+
+    run this command on terminal: pip --user install opencv-python
 
 ## v1.1:
 
